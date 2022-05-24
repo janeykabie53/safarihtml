@@ -1,0 +1,22 @@
+.fruits{
+    font-family: "DejaVu Sans Mono";
+    border: 2px sandybrown solid;
+    padding: 15px;
+    background-color: lightcyan;
+    text-align: center;
+    margin: 15px;
+}
+.FRUITS{
+    font-family: "Century Schoolbook L";
+    background-color: grey;
+    border:2px crimson;
+    padding: 13px;
+    text-align: center;
+}
+.cars{
+    font-family: "DejaVu Sans";
+    border: 2px dot-dot-dash;
+    background-color: aquamarine;
+    padding: 12px;
+    text-align: center;
+}

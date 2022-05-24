@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f31bb19-4a9a-495b-a9bc-74c61d6996c6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28yO3Kx0ZvbvNbHJjbBzlUmHeRG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/emobilis/Desktop/janey/pictures",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pictures" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="introduction.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/janey/introduction.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.introduction.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f31bb19-4a9a-495b-a9bc-74c61d6996c6" name="Changes" comment="" />
+      <created>1652185162653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652185162653</updated>
+      <workItem from="1652185164332" duration="428000" />
+      <workItem from="1652185601811" duration="1788000" />
+      <workItem from="1652267804163" duration="590000" />
+      <workItem from="1652268731928" duration="2919000" />
+      <workItem from="1652271999657" duration="13000" />
+      <workItem from="1652355295898" duration="542000" />
+      <workItem from="1652356404752" duration="1612000" />
+      <workItem from="1652358143553" duration="221000" />
+      <workItem from="1652358665024" duration="22000" />
+      <workItem from="1652359384192" duration="1218000" />
+      <workItem from="1652442142414" duration="17000" />
+      <workItem from="1652442334192" duration="135000" />
+      <workItem from="1652442523483" duration="10000" />
+      <workItem from="1652442947266" duration="302000" />
+      <workItem from="1652443774988" duration="314000" />
+      <workItem from="1652444125531" duration="2968000" />
+      <workItem from="1652701082255" duration="1910000" />
+      <workItem from="1652704421293" duration="9000" />
+      <workItem from="1652787229786" duration="1290000" />
+      <workItem from="1652789141905" duration="1874000" />
+      <workItem from="1652791108115" duration="23000" />
+      <workItem from="1652791269358" duration="91000" />
+      <workItem from="1652791980794" duration="982000" />
+      <workItem from="1652792980765" duration="610000" />
+      <workItem from="1652794221298" duration="93000" />
+      <workItem from="1652853030819" duration="8000" />
+      <workItem from="1652874970209" duration="4950000" />
+      <workItem from="1652880923053" duration="1647000" />
+      <workItem from="1652959639378" duration="6396000" />
+      <workItem from="1653024339308" duration="12000" />
+      <workItem from="1653047521857" duration="1752000" />
+      <workItem from="1653305409642" duration="7418000" />
+      <workItem from="1653391690835" duration="1652000" />
+      <workItem from="1653394564759" duration="1210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,49 @@
+#Password{
+    background-color: #44ff57;
+    margin: 2px;
+    border: 2px solid;
+}
+#DOB{
+    background-color: #ffb5f7;
+    margin: 2px;
+    border: 2px solid;
+}
+#Email{
+    background-color: palegreen;
+    margin: 2px;
+    border: 2px solid;
+}
+#L\.NAME{
+    background-color: brown;
+    margin: 2px;
+    border: 2px solid;
+}
+#NAME{
+    font-family: cursive;
+    margin: 2px;
+    border: 2px solid;
+}
+#Female{
+    background-color: beige;
+    margin: 2px;
+    border: 2px solid;
+}
+label{
+    color: goldenrod;
+}
+form{
+    background-color: beige;
+    border: 4px solid black;
+    alignment: center;
+    padding: 30px;
+    margin: 5px;
+    width: 200px;
+}
+h2{
+    font-family: fantasy;
+    text-align: left;
+    text-underline-style:thick;
+}
+files{
+
+}

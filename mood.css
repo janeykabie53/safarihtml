@@ -1,0 +1,24 @@
+#Books{
+    font-family: cursive;
+    border: 2px blue solid;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+    background-color: #d5d7ff;
+}
+#friends{
+    font-family: cursive;
+    border: 2px palegreen;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+    background-color: #ff8abc;
+}
+#school{
+    font-family: cursive;
+    border: 2px chartreuse solid;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+    background-color: #91f3ff;
+}
